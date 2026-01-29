@@ -1,0 +1,3 @@
+[submodule "fagskolen_mcp_server/inspector"]
+	path = fagskolen_mcp_server/inspector
+	url = https://github.com/modelcontextprotocol/inspector

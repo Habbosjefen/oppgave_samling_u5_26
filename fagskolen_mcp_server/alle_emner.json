@@ -1,0 +1,3476 @@
+[
+  {
+    "emne_name": "Organisasjonsforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02AL66A-EILADK/2025-host",
+    "from_study": "Administrativ koordinator",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/administrativ-koordinator"
+  },
+  {
+    "emne_name": "Kommunikasjon, inkludert digitale verktøy",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02AL66B-EILADK/2025-host",
+    "from_study": "Administrativ koordinator",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/administrativ-koordinator"
+  },
+  {
+    "emne_name": "Administrativ lederstøtte, inkludert økonomi og personalarbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02AL66C-EILADK/2026-var",
+    "from_study": "Administrativ koordinator",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/administrativ-koordinator"
+  },
+  {
+    "emne_name": "Endring og utvikling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02AL66D-EILADK/2026-host",
+    "from_study": "Administrativ koordinator",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/administrativ-koordinator"
+  },
+  {
+    "emne_name": "Kontordrift/ praktisk lederstøtte",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02AL66E-EILADK/2026-host",
+    "from_study": "Administrativ koordinator",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/administrativ-koordinator"
+  },
+  {
+    "emne_name": "Hovedprosjekt (faglig fordypning)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02AL66F-EILADK/2027-var",
+    "from_study": "Administrativ koordinator",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/administrativ-koordinator"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Grunnleggende bygg og anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00A-EITKBYK/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Digital byggeprosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00B-EITKBYK/2026-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Anleggsproduksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02A-EITKANK/2026-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Geomatikk og BIM anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02B-EITKANK/2027-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Konstruksjonslære anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02C-EITKANK/2027-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Anleggsteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02D-EITKANK/2028-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2027-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Yrkesrettet kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "LØM (Ledelse, økonomistyring og markedsføringsledelse)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Grunnleggende bygg og anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00A-EITKBYK/2025-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Digital byggeprosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00B-EITKBYK/2026-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Anleggsproduksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02A-EITKANK/2026-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Geomatikk og BIM anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02B-EITKANK/2027-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Konstruksjonslære anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02C-EITKANK/2026-var",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Anleggsteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB02D-EITKANK/2026-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2026-host",
+    "from_study": "Anlegg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/anlegg"
+  },
+  {
+    "emne_name": "Introduksjon til KI og maskinlæringsmodeller",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDAMK-01TD56A/2025-host",
+    "from_study": "Anvendt maskinlæring",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/anvendt-maskinlaering"
+  },
+  {
+    "emne_name": "KI utvikling prosess og rammeverk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDAMK-01TD56B/2026-var",
+    "from_study": "Anvendt maskinlæring",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/anvendt-maskinlaering"
+  },
+  {
+    "emne_name": "Programmering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDAMK-01TD56C/2025-host",
+    "from_study": "Anvendt maskinlæring",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/anvendt-maskinlaering"
+  },
+  {
+    "emne_name": "Programmering for maskinlæring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDAMK-01TD56D/2026-var",
+    "from_study": "Anvendt maskinlæring",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/anvendt-maskinlaering"
+  },
+  {
+    "emne_name": "Datainnsamling og prosessering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDAMK-01TD56E/2026-var",
+    "from_study": "Anvendt maskinlæring",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/anvendt-maskinlaering"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2027-var",
+    "from_study": "Anvendt maskinlæring",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/anvendt-maskinlaering"
+  },
+  {
+    "emne_name": "Helsetjenester og rettigheter til sårbare barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00001EIHOABF-25/2025-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Familiesentrert omsorg, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00002EIHOABF--25/2025-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Psykisk helse hos barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00003EIHOABF-25/2026-var",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Barn og unge med nedsatt funksjonsevne",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00004EIHOABF-25/2026-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Psykisk utviklingshemming hos barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00005EIHOABF--25/2026-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Aktivitet og deltakelse, velferdsteknologi og hjelpemidler",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00006EIHOABF-25/2027-var",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Helsetjenester og rettigheter til sårbare barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00001EIHOABF-25/2025-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Familiesentrert omsorg, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00002EIHOABF--25/2025-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Psykisk helse hos barn og unge",
+    "emne_link": "https://nginx-fagskolen-viken-cloud-feature-new-study-template.frontkom1.amazee.io/node/1602/edit",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Barn og unge med nedsatt funksjonsevne",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00004EIHOABF-25/2026-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Psykisk utviklingshemming hos barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00005EIHOABF--25/2026-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Aktivitet og deltakelse, velferdsteknologi og hjelpemidler",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00006EIHOABF-25/2027-var",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Familiesentrert omsorg, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00002EIHOABF--25/2025-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Psykisk helse hos barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00003EIHOABF-25/2026-var",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Barn og unge med nedsatt funksjonsevne",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00004EIHOABF-25/2026-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Psykisk utviklingshemming hos barn og unge",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00005EIHOABF--25/2026-host",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Aktivitet og deltakelse, velferdsteknologi og hjelpemidler",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00006EIHOABF-25/2027-var",
+    "from_study": "Arbeid med sårbare barn og unge",
+    "study_url": "https://fagskolen-viken.no/studier/helse/arbeid-med-sarbare-barn-og-unge"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2026-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Styringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE01A/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Industriell Digitalisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE01B/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Reguleringstekniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE01C/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Elektroniske kommunikasjonssystemer (EKOM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00H-EITKELFH24/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G-EITKELFH24/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Styringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE01A/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Industriell Digitalisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE01B/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Reguleringstekniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE01C/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Elektroniske kommunikasjonssystemer (EKOM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00H-EITKELFH24/2025-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2026-host",
+    "from_study": "Automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/automatisering"
+  },
+  {
+    "emne_name": "Helserett og etikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH43C-EIHOAPF-25/2025-host",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Anatomi og fysiologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH43A-EIHOAPF-25/2025-host",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Farmakologi og medikamentregning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH43B-EIHOAPF-25/2026-var",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Akuttmedisinske tilstander hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH68M-EIHOAPF-25/2026-host",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Psykiske lidelser og ruslidelser",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH68D-EIHOAPF-25/2026-host",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Fødsler, nyfødte og akutt syke barn",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH68E-EIHOAPF-25/2027-var",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Operativ psykologi og situasjonsbestemt kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH68A-EIHOAPF-25/2027-host",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Ambulanseoperativ ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH68L-EIHOAPF-25/2027-host",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Hovedoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH68K-EIHOAPF-25/2028-var",
+    "from_study": "Avansert prehospital kompetanse",
+    "study_url": "https://fagskolen-viken.no/studier/helse/avansert-prehospital-kompetanse"
+  },
+  {
+    "emne_name": "Etikk, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60A-EIHOBSF-25/2025-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Livsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60B-EIHOBSF-25/2025-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Tidlig innsats",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60C-EIHOBSF-25/2026-var",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60D-EIHOBSF-25/2026-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60E-EIHOBSF-25/2027-var",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Etikk, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60A-EIHOBSF-25/2025-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Livsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60B-EIHOBSF-25/2025-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Tidlig innsats",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60C-EIHOBSF-25/2026-var",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60D-EIHOBSF-25/2026-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60E-EIHOBSF-25/2027-var",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Etikk, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60A-EIHOBSF-25/2025-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Livsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60B-EIHOBSF-25/2025-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Tidlig innsats",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60C-EIHOBSF-25/2026-var",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60D-EIHOBSF-25/2026-host",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO60E-EIHOBSF-25/2027-var",
+    "from_study": "Barn og unge med behov for særskilt tilrettelegging",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/barn-og-unge-med-behov-saerskilt-tilrettelegging"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOHOF-H25/2025-host",
+    "from_study": "Barsel og barnepleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/barsel-og-barnepleie"
+  },
+  {
+    "emne_name": "Svangerskaps-, fødsels- og barselomsorg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH07O-EIHOHOF-25/2025-host",
+    "from_study": "Barsel og barnepleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/barsel-og-barnepleie"
+  },
+  {
+    "emne_name": "Omsorg for og pleie av nyfødte og premature barn",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH07P-EIHOHOF-25/2026-var",
+    "from_study": "Barsel og barnepleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/barsel-og-barnepleie"
+  },
+  {
+    "emne_name": "Sykepleie for barn 0-18 år",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH07Q-EIHOHOF-25/2026-host",
+    "from_study": "Barsel og barnepleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/barsel-og-barnepleie"
+  },
+  {
+    "emne_name": "Praksis i barsel- og barnepleie",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH07R-EIHOHOF-25/2027-var",
+    "from_study": "Barsel og barnepleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/barsel-og-barnepleie"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOHOF-25/2027-var",
+    "from_study": "Barsel og barnepleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/barsel-og-barnepleie"
+  },
+  {
+    "emne_name": "Økonomi, ledelse og markedsføring for frisører",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TL53A-EIKBIFK/2025-host",
+    "from_study": "Bedriftsutvikling i frisørfaget",
+    "study_url": "https://fagskolen-viken.no/studier/skjonnhet-og-velvaere/bedriftsutvikling-i-frisorfaget"
+  },
+  {
+    "emne_name": "Digital kundereise i frisør- og hudpleierfaget",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TL52C-EIKBIFK/2025-host",
+    "from_study": "Bedriftsutvikling i frisørfaget",
+    "study_url": "https://fagskolen-viken.no/studier/skjonnhet-og-velvaere/bedriftsutvikling-i-frisorfaget"
+  },
+  {
+    "emne_name": "Kjemi i frisørfaget",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK55A-EIKBIFK/2026-var",
+    "from_study": "Bedriftsutvikling i frisørfaget",
+    "study_url": "https://fagskolen-viken.no/studier/skjonnhet-og-velvaere/bedriftsutvikling-i-frisorfaget"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A/2026-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B/2027-var",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C/2025-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Elektroteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00K/2025-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L/2026-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Energiteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00R/2027-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Kjøretøyteknologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT01A-EITBTKH24/2028-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Alternative fremdriftssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT01B-EITBTKH24/2027-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Administrasjon og bransjeledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT01C-EITBTKH24/2029-var",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Logistikk, bærekraft og sirkulærøkonomi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT01D-EITBTKH24/2027-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2028-host",
+    "from_study": "Bilteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/bilteknikk"
+  },
+  {
+    "emne_name": "Prosess, samhandling og informasjonsflyt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54A/2025-host",
+    "from_study": "BIM-tekniker installasjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-installasjon"
+  },
+  {
+    "emne_name": "Bygningsinformasjonsmodellering- Installasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54D/2025-host",
+    "from_study": "BIM-tekniker installasjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-installasjon"
+  },
+  {
+    "emne_name": "Avsluttende tverrfaglig prosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54C/2027-var",
+    "from_study": "BIM-tekniker installasjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-installasjon"
+  },
+  {
+    "emne_name": "Prosess, samhandling og informasjonsflyt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54A/2025-host",
+    "from_study": "BIM-tekniker konstruksjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+  },
+  {
+    "emne_name": "Bygningsinformasjonsmodellering- Konstruksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54B/2025-host",
+    "from_study": "BIM-tekniker konstruksjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+  },
+  {
+    "emne_name": "Avsluttende tverrfaglig prosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54C/2027-var",
+    "from_study": "BIM-tekniker konstruksjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+  },
+  {
+    "emne_name": "Prosess, samhandling og informasjonsflyt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54A/2025-host",
+    "from_study": "BIM-tekniker konstruksjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+  },
+  {
+    "emne_name": "Bygningsinformasjonsmodellering- KONSTRUKSJON",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54B/2025-host",
+    "from_study": "BIM-tekniker konstruksjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+  },
+  {
+    "emne_name": "Avsluttende tverrfaglig prosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TI54C/2027-var",
+    "from_study": "BIM-tekniker konstruksjon",
+    "study_url": "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Samordnet byggeprosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB00D-EITKBYFH24/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Byggesaken",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB00E-EITKBYFH24/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Konstruksjon bygg m/ faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB01F-EITKBYFH24/2025-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Drift/Produksjon bygg m/faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB01G-EITKBYF24/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Lokal tilpassing / spesialisering med faglig ledelse: Bruk av digitale verktøy",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01H-EITKBYFH24/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2027-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Grunnleggende bygg og anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00A-EITKBYK/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Digital byggeprosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00B-EITKBYK/2026-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Prosjektstyring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01L-EITKBYK/2026-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Geomatikk og BIM bygg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01M-EITKBYK/2027-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Konstruksjonslære bygg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01N-EITKBYK/2027-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Bygningsbevaring og bygningsfysikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01O-EITKBYK/2027-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Anleggsdrift",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01P-EITKBYK/2028-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2027-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Grunnleggende bygg og anlegg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB00A-EITKBYK/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Prosjektstyring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01L-EITKBYK/2026-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Geomatikk og BIM bygg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01M-EITKBYK/2026-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Konstruksjonslære bygg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01N-EITKBYK/2026-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Bygningsbevaring og bygningsfysikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01O-EITKBYK/2026-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Anleggsdrift",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01P-EITKBYK/2027-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2026-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Samordnet byggeprosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB00D-EITKBYFH24/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Byggesaken",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB00E-EITKBYFH24/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Konstruksjon bygg m/ faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB01F-EITKBYFH24/2025-var",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Drift/Produksjon bygg m/faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB01G-EITKBYF24/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Spesialisering med faglig ledelse: Bruk av digitale verktøy",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB01H-EITKBYFH24/2024-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2025-host",
+    "from_study": "Bygg",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/bygg"
+  },
+  {
+    "emne_name": "Energirådgiver",
+    "emne_link": "https://fagskolen-viken.no/studier/bygg-og-anlegg/energiradgiver",
+    "from_study": "Bærekraft i byggenæringen",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/baerekraft-i-byggenaeringen"
+  },
+  {
+    "emne_name": "Helhetlig energisystemer",
+    "emne_link": "https://fagskolen-viken.no/studier/bygg-og-anlegg/helhetlig-energisystemer",
+    "from_study": "Bærekraft i byggenæringen",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/baerekraft-i-byggenaeringen"
+  },
+  {
+    "emne_name": "Praktisk ombruk og sirkulærøkonomi",
+    "emne_link": "https://fagskolen-viken.no/studier/bygg-og-anlegg/praktisk-ombruk-og-sirkulaerokonomi",
+    "from_study": "Bærekraft i byggenæringen",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/baerekraft-i-byggenaeringen"
+  },
+  {
+    "emne_name": "Introduksjon til cybersikkerhet og nettverk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT00E-EITINDK/2026-var",
+    "from_study": "Cybersikkerhet",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/cybersikkerhet"
+  },
+  {
+    "emne_name": "Nettverkssikkerhet",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT00E-EITINDK/2026-var",
+    "from_study": "Cybersikkerhet",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/cybersikkerhet"
+  },
+  {
+    "emne_name": "Håndtering av cybertrusler",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT00E-EITINDK/2026-var",
+    "from_study": "Cybersikkerhet",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/cybersikkerhet"
+  },
+  {
+    "emne_name": "Innføring i dataanalyse og datadrevet beslutningstaking",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDDAK-01TD55A/2025-host",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Programmering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDDAK-01TD55B/2025-host",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Datakilder, innsamling og forberedelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDDAK-01TD55C/2026-var",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Grunnleggende dataanalyse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDDAK-01TD55D/2026-var",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Analyser og visualisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDDAK-01TD55E/2026-host",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Prediksjon og prognoser",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EITDDAK-01TD55F/2026-host",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2027-var",
+    "from_study": "Dataanalytiker",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/dataanalytiker"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHODAF-25/2025-host",
+    "from_study": "Demens og alderspsykiatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/demens-og-alderspsykiatri"
+  },
+  {
+    "emne_name": "Naturlig aldring og alderdommens utfordringer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH50B-EIHODAF-25/2025-host",
+    "from_study": "Demens og alderspsykiatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/demens-og-alderspsykiatri"
+  },
+  {
+    "emne_name": "Demens og psykiatriske lidelser hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH50C-EIHODAF-25/2026-var",
+    "from_study": "Demens og alderspsykiatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/demens-og-alderspsykiatri"
+  },
+  {
+    "emne_name": "Organisering, system og ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH50D-EIHODAF-25/2026-host",
+    "from_study": "Demens og alderspsykiatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/demens-og-alderspsykiatri"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH50F-EIHODAF-25/2026-host",
+    "from_study": "Demens og alderspsykiatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/demens-og-alderspsykiatri"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHODAF-25/2027-var",
+    "from_study": "Demens og alderspsykiatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/demens-og-alderspsykiatri"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2026-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Installasjonssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13A-EITKELFH24/2026-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektrisk energiproduksjon- og distribusjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13B-EITKELFH24/2026-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Prosjekt og faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13C-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske kommunikasjonssystemer (EKOM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00H-EITKELFH24/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Automatiserte- og reguleringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13D-EITKELFH24/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Hovedprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2026-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt forprosjekt (valbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00F/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt prosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00I/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Installasjonssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13A-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektrisk energiproduksjon- og distribusjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13B-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Prosjekt og faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13C-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske kommunikasjonssystemer (EKOM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00H-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Automatiserte- og reguleringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13D/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Hovedprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2026-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt forprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00F/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt prosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00I/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2026-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2026-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Installasjonssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13A-EITKELFH24/2026-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektrisk energiproduksjon- og distribusjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13B-EITKELFH24/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Prosjekt og faglig ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13C-EITKELFH24/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske kommunikasjonssystemer (EKOM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00H-EITKELFH24/2028-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Automatiserte- og reguleringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13D-EITKELFH24/2027-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Hovedprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2027-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt forprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00F/2027-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt prosjekt (valbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00I/2028-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Installasjonssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13A-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektrisk energiproduksjon- og distribusjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13B-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Automatiserte- og reguleringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13D/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt forprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00F/2028-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt prosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00I/2029-var",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Hovedprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/program/EITKEL",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektriske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00G/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektroniske systemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE00F-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Installasjonssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13A-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Elektrisk energiproduksjon- og distribusjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13B-EITKELFH24/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Automatiserte- og reguleringssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TE13D/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Hovedprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2025-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt forprosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00F/2028-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Internasjonalt prosjekt (valgbart emne)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TX00I/2028-host",
+    "from_study": "Elkraft",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/elkraft"
+  },
+  {
+    "emne_name": "Trygghet i lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL09A-EILGPK25/2025-host",
+    "from_study": "Grunnleggende praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/grunnleggende-praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Leders rammer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL09B-EILGPK25/2025-host",
+    "from_study": "Grunnleggende praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/grunnleggende-praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Fleksibel digitalisert produksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59C-EITKFDK/2025-var",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Industriell intelligens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59B-EITKFDK/2025-var",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Tingenes internett og stordata",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59A-EITKFDK/2024-host",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Tingenes Internett og Stordata",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59A-EITKFDK/2024-host",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Industriell Intelligens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59B-EITKFDK/2025-var",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Fleksibel digitalisert produksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59C-EITKFDK/2025-var",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Tingenes Internett og Stordata",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59A-EITKFDK/2024-host",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Industriell Intelligens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59B-EITKFDK/2025-var",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Fleksibel digitalisert produksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE59C-EITKFDK/2025-var",
+    "from_study": "Industriell digitalisert automatisering",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/industriell-digitalisert-automatisering"
+  },
+  {
+    "emne_name": "Grunnleggende kommunikasjon med digitale verktøy",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01H-EITINDK/2026-var",
+    "from_study": "Innføring i teknologifag",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/innforing-i-teknologifag"
+  },
+  {
+    "emne_name": "Grunnleggende styringsteknikker",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01H-EITINDK/2026-var",
+    "from_study": "Innføring i teknologifag",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/innforing-i-teknologifag"
+  },
+  {
+    "emne_name": "Grunnleggende mekanikk med praktiske beregninger",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01H-EITINDK/2026-var",
+    "from_study": "Innføring i teknologifag",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/innforing-i-teknologifag"
+  },
+  {
+    "emne_name": "Etikk, kommunikasjon og samhandling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH42A-EIHOIPF/2024-host",
+    "from_study": "Intensivpleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/intensivpleie"
+  },
+  {
+    "emne_name": "Smittevern og infeksjonsforebygging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH42B-EIHOIPF/2024-host",
+    "from_study": "Intensivpleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/intensivpleie"
+  },
+  {
+    "emne_name": "Akutt kritisk sykdom og skade",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH42C-EIHOIPF/2024-host",
+    "from_study": "Intensivpleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/intensivpleie"
+  },
+  {
+    "emne_name": "Intensivpleie",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH42D-EIHOIPF/2025-host",
+    "from_study": "Intensivpleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/intensivpleie"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH42E-EIHOIPF/2025-var",
+    "from_study": "Intensivpleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/intensivpleie"
+  },
+  {
+    "emne_name": "Hovedoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH42F-EIHOIPF/2026-var",
+    "from_study": "Intensivpleie",
+    "study_url": "https://fagskolen-viken.no/studier/helse/intensivpleie"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Byggesaken for tekniske installasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TB03J-EITKKEK-H25/2026-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Energi og miljø i bygg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TB03K-EITKKEK-H25/2025-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "VVS-prosjektering og systemforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB03K-EITKKEK-H25/2027-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Styring og automatisering av bygningstekniske installasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB03F-EITKKEK-H25/2027-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "VVS og klimatekniske installasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB03G-EITKKEK-H25/2027-var",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2028-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Byggesaken for tekniske installasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TB03J-EITKKEK-H25/2026-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Energi og miljø i bygg",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TB03K-EITKKEK-H25/2025-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "VVS-prosjektering og systemforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00TB03K-EITKKEK-H25/2027-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Styring og automatisering av bygningstekniske installasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB03F-EITKKEK-H25/2027-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "VVS og klimatekniske installasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB03G-EITKKEK-H25/2027-var",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2028-host",
+    "from_study": "Klima, energi og miljø i bygg (KEM)",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/klima-energi-og-miljo-i-bygg-kem"
+  },
+  {
+    "emne_name": "Økonomistyring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT00D-EITINDK/2026-var",
+    "from_study": "Ledelse og økonomi for industrien",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/ledelse-og-okonomi-industrien"
+  },
+  {
+    "emne_name": "Organisasjon og ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT00D-EITINDK/2026-var",
+    "from_study": "Ledelse og økonomi for industrien",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/ledelse-og-okonomi-industrien"
+  },
+  {
+    "emne_name": "Markedsføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT00D-EITINDK/2026-var",
+    "from_study": "Ledelse og økonomi for industrien",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/ledelse-og-okonomi-industrien"
+  },
+  {
+    "emne_name": "Forretningsmodeller og styringsmodeller",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01G-EITINDK/2026-var",
+    "from_study": "Logistikk og sporbarhet i produksjonen",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/logistikk-og-sporbarhet-i-produksjonen"
+  },
+  {
+    "emne_name": "Prinsipper for produksjonsstyring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01G-EITINDK/2026-var",
+    "from_study": "Logistikk og sporbarhet i produksjonen",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/logistikk-og-sporbarhet-i-produksjonen"
+  },
+  {
+    "emne_name": "Operativ planlegging og styring av produksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01G-EITINDK/2026-var",
+    "from_study": "Logistikk og sporbarhet i produksjonen",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/logistikk-og-sporbarhet-i-produksjonen"
+  },
+  {
+    "emne_name": "Digitale informasjonssystemer og bruk av teknologi til planlegging og styring av produksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01G-EITINDK/2026-var",
+    "from_study": "Logistikk og sporbarhet i produksjonen",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/logistikk-og-sporbarhet-i-produksjonen"
+  },
+  {
+    "emne_name": "Sporbarhet, bærekraft og sirkulærøkonomi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01G-EITINDK/2026-var",
+    "from_study": "Logistikk og sporbarhet i produksjonen",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/logistikk-og-sporbarhet-i-produksjonen"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOMIF/2025-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Utviklingshemming og funksjonsvariasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH22A-EIHOMIF/2025-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Teorier og arbeidsmåter i målrettet miljøarbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH22B-EIHOMIF/2026-var",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Organisering, system og ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH22C-EIHOMIF/2026-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00C-EIHOMIF/2026-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOMIF/2027-var",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOMIF/2025-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Utviklingshemming og funksjonsvariasjoner",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH22A-EIHOMIF/2025-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Teorier og arbeidsmåter i målrettet miljøarbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH22B-EIHOMIF/2026-var",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Organisering, system og ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH22C-EIHOMIF/2026-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00C-EIHOMIF/2026-host",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOMIF/2027-var",
+    "from_study": "Målrettet miljøarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/malrettet-miljoarbeid"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B-EITKFRE/2025-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Elektro og automatisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00H/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L-EITKMTFH24/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Maskinkonstruksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04M-EITKMTFH24/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "3D-modellering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04N-EITKMTFH24/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Strømningslære",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04P-EITKMTFH24/2025-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Automatisering og digitalisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04S-EITKMTFH24/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Logistikk og industrielt vedlikehold",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04U-EITKMTFH24/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2026-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B/2026-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Elektroteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00K/2026-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Energiteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00R/2027-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Maskinkonstruksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04M/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "3D-modellering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04N/2027-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Digital automatisering 1",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00T/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Produktutvikling og tilvirkningsteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04W/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://fagskolen-viken.no/nyheter/fagskolen-viken-tilbyr-studier-med-lonnskompensasjon-til-industrien",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B/2027-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Elektroteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00K/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Energiteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00R/2027-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Maskinkonstruksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04M/2027-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "3D-modellering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04N/2027-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Digital automatisering 1",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00T/2028-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Produktutvikling og tilvirkningsteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04W/2029-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2028-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A-EITKFRE/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B-EITKFRE/2025-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C-EITKFRE/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Elektro og automatisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00H/2025-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L-EITKMTFH24/2024-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Maskinkonstruksjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04M-EITKMTFH24/2026-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "3D-modellering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04N-EITKMTFH24/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Strømningslære",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04P-EITKMTFH24/2026-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Automatisering og digitalisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04S-EITKMTFH24/2025-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Logistikk og industrielt vedlikehold",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT04U-EITKMTFH24/2026-host",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2027-var",
+    "from_study": "Maskinteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/maskinteknikk"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2026-var",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Kjemi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02C-EITKKMFH24/2024-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Prosessteknologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02D-EITKKMFH24/2024-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Mikrobiologi og hygiene",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02E-EITKKMFH24/2026-var",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Matkjemi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02M-EITKKMFH24/2025-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Kvalitetsstyring og HMS",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02J-EITKKMFH24/2025-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Teknisk analyse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02N-EITKKMFH24/2025-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Matkunnskap - kjøtt og fisk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02K-EITKKMFH24/2026-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Matkunnskap - melk og vegetabilier",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02L-EITKKMFH24/2026-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Prosjektsstyring og hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK02P-EITKKMFH24/2026-host",
+    "from_study": "Matteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/matteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon og samhandling i pasientforløpet",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90A-25/2025-host",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Medisinske sykdomstilstander",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90B-25/2025-host",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Geriatrisk vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90C-25/2026-var",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Systematiske observasjoner og vurderinger ved forverret helsetilstand",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90D-25/2026-host",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Konsekvenser av sykdom og behandling og iverksetting av tiltak",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90E-25/2026-host",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90F-25/2027-var",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Hovedoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90G-25/2027-var",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Geriatrisk vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90C-25/2026-var",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Systematiske observasjoner og vurderinger ved forverret helsetilstand",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90D-25/2026-host",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Konsekvenser av sykdom og behandling og iverksetting av tiltak",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90E-25/2026-host",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90F-25/2027-var",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Hovedoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/EIHOMVF-01HH90G-25/2027-var",
+    "from_study": "Medisinsk virksomhet",
+    "study_url": "https://fagskolen-viken.no/studier/helse/medisinsk-virksomhet"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B/2027-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Elektroteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00K/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Energiteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00R/2027-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Digital automatisering 1",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00T/2028-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Digital automatisering 2",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06F-EITKMEKH24/2029-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Analog og digitalteknikk med PCB-design",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06E-EITKMEKH24/2027-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Teknisk design og dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06D-EITKMEKH24/2027-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2028-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B/2026-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Elektroteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00K/2026-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Energiteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00R/2027-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Digital automatisering 1",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00T/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Digital automatisering 2",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06F-EITKMEKH24/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Analog og digitalteknikk med PCB-design",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06E-EITKMEKH24/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Teknisk design og dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06D-EITKMEKH24/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2025-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Materialkunnskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00C-EITKFRE/2024-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Mekanikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00B-EITKFRE/2025-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Teknisk dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00L-EITKMEFH24/2024-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Elektro og automatisering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00H/2025-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "HMS-, prosjekt- og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00A-EITKFRE/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Energiteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT00R-EITKMEFH24/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Mekatronikkstyring og produksjonssystemer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06B-EITKMEFH24/2025-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Analog og digitalteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06A-EITKMEFH24/2026-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Robotteknologi og reguleringsteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06C-EITKMEFH24/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Teknisk design og dokumentasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TT06D-EITKMEFH24/2026-host",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2027-var",
+    "from_study": "Mekatronikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/mekatronikk"
+  },
+  {
+    "emne_name": "Produksjon og kvalitet",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK85A-EIRLTRK/2025-host",
+    "from_study": "Norsk tradisjonsdrikke som reiselivsprodukt",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/norsk-tradisjonsdrikke-som-reiselivsprodukt"
+  },
+  {
+    "emne_name": "Markedsføring og produktutvikling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK85B-EIRLTRK/2025-host",
+    "from_study": "Norsk tradisjonsdrikke som reiselivsprodukt",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/norsk-tradisjonsdrikke-som-reiselivsprodukt"
+  },
+  {
+    "emne_name": "Opplevelsesdesign og formidling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK85C-EIRLTRK/2026-var",
+    "from_study": "Norsk tradisjonsdrikke som reiselivsprodukt",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/norsk-tradisjonsdrikke-som-reiselivsprodukt"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK85D-EIRLTRK/2026-var",
+    "from_study": "Norsk tradisjonsdrikke som reiselivsprodukt",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/norsk-tradisjonsdrikke-som-reiselivsprodukt"
+  },
+  {
+    "emne_name": "Observasjons- og vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73A-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Kronisk sykdom",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73B-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Demens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73C-EIHOOVF-H25/2026-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Smittevern og hygiene",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73D-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Hverdagsrehabilitering og hverdagsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73E-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Velferdsteknologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73F-EIHOOVF-H25/2027-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Observasjons- og vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73A-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Kronisk sykdom",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73B-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Demens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73C-EIHOOVF-H25/2026-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Smittevern og hygiene",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73D-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Hverdagsrehabilitering og hverdagsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73E-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Velferdsteknologi",
+    "emne_link": "https://nginx-fagskolen-viken-cloud-feature-new-study-template.frontkom1.amazee.io/node/1274/edit",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Observasjons- og vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73A-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Kronisk sykdom",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73B-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Demens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73C-EIHOOVF-H25/2026-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Smittevern og hygiene",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73D-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Hverdagsrehabilitering og hverdagsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73E-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Velferdsteknologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73F-EIHOOVF-H25/2027-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Observasjons- og vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73A-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Kronisk sykdom",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73B-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Demens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73C-EIHOOVF-H25/2026-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Smittevern og hygiene",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73D-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Hverdagsrehabilitering og hverdagsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73E-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Velferdsteknologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73F-EIHOOVF-H25/2027-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Observasjons- og vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73A-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Kronisk sykdom",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73B-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Demens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73C-EIHOOVF-H25/2026-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Smittevern og hygiene",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73D-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Hverdagsrehabilitering og hverdagsmestring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73E-EIHOOVF-H25/2026-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Velferdsteknologi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73F-EIHOOVF-H25/2027-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Observasjons- og vurderingskompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73A-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Kronisk sykdom",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73B-EIHOOVF-H25/2025-host",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Demens",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH73C-EIHOOVF-H25/2026-var",
+    "from_study": "Observasjons- og vurderingskompetanse i helsetjenesten",
+    "study_url": "https://fagskolen-viken.no/studier/helse/observasjons-og-vurderingskompetanse-i-helsetjenesten"
+  },
+  {
+    "emne_name": "Optikk og optoteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25HH47A-EIHOOMK/2025-host",
+    "from_study": "Optometri for medhjelpere",
+    "study_url": "https://fagskolen-viken.no/studier/helse/optometri-medhjelpere"
+  },
+  {
+    "emne_name": "Optikk, syn og optometri",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25HH47B-EIHOOMK/2025-host",
+    "from_study": "Optometri for medhjelpere",
+    "study_url": "https://fagskolen-viken.no/studier/helse/optometri-medhjelpere"
+  },
+  {
+    "emne_name": "Bransjekunnskap om optikk og optometri",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25HH47C-EIHOOMK/2026-var",
+    "from_study": "Optometri for medhjelpere",
+    "study_url": "https://fagskolen-viken.no/studier/helse/optometri-medhjelpere"
+  },
+  {
+    "emne_name": "Trygghet i lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08A-EILFPLK25/2025-host",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Leders rammer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08B-EILFPLK25/2026-var",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Utvikling av lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08C-EILFPLK25/2026-host",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08D-EILFPLK25/2027-var",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Trygghet i lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08A-EILFPLK25/2025-host",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Leders rammer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08B-EILFPLK25/2026-var",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Utvikling av lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08C-EILFPLK25/2026-host",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08D-EILFPLK25/2027-var",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Trygghet i lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08A-EILFPLK25/2025-host",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Leders rammer",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08B-EILFPLK25/2026-var",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Utvikling av lederrollen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08C-EILFPLK25/2026-host",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25AL08D-EILFPLK25/2027-var",
+    "from_study": "Praktisk lederutdanning",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/praktisk-lederutdanning"
+  },
+  {
+    "emne_name": "Infrastruktur for programmering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02TD57A-EITDPVU/2025-host",
+    "from_study": "Programvareutvikling",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/programvareutvikling"
+  },
+  {
+    "emne_name": "Systemutvikling og samarbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TD01A/2025-host",
+    "from_study": "Programvareutvikling",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/programvareutvikling"
+  },
+  {
+    "emne_name": "Grunnleggende programmering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TD01B/2025-host",
+    "from_study": "Programvareutvikling",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/programvareutvikling"
+  },
+  {
+    "emne_name": "Webutvikling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TD01C/2026-host",
+    "from_study": "Programvareutvikling",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/programvareutvikling"
+  },
+  {
+    "emne_name": "Apputvikling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TD01D/2027-var",
+    "from_study": "Programvareutvikling",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/programvareutvikling"
+  },
+  {
+    "emne_name": "Datastrukturer og databaser",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TD01E/2026-host",
+    "from_study": "Programvareutvikling",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/programvareutvikling"
+  },
+  {
+    "emne_name": "Realfaglige redskap",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00A-EITKFRE/2024-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00B-EITKFRE/2024-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Ledelse, økonomi og markedsføring (LØM)",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00C-EITKFRE/2026-var",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Innledende kjemi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01C-EITKKPFH24/2024-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "HMS og bærekraft",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01D-EITKKPFH24/2025-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Generell kjemiprosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01E-EITKKPFH24/2024-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Prosjekt og kvalitetsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01J-EITKKPFH24/2026-var",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Kjemiteknisk prosess",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01K-EITKKPFH24/2025-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Teknisk systemforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01L-EITKKPFH24/2026-host",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Prosessteknologiske metoder",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK01M-EITKKPFH24/2026-var",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Hovedprosjekt",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TX00H-EITKFRE/2027-var",
+    "from_study": "Prosessteknikk",
+    "study_url": "https://fagskolen-viken.no/studier/teknologi-og-industri/prosessteknikk"
+  },
+  {
+    "emne_name": "Prosjektforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64A--EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektplanlegging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64B-EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektgjennomføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64C-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektavslutning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64D-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64A--EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektplanlegging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64B-EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektgjennomføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64C-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektavslutning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64D-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64A--EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektplanlegging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64B-EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektgjennomføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64C-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektavslutning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64D-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64A--EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektplanlegging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64B-EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektgjennomføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64C-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektavslutning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64D-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64A--EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektplanlegging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64B-EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektgjennomføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64C-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektavslutning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64D-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektforståelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64A--EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektplanlegging",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64B-EILPLF/2025-host",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektgjennomføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64C-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Prosjektavslutning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB64D-EILPLF/2026-var",
+    "from_study": "Prosjektledelse for fagarbeideren",
+    "study_url": "https://fagskolen-viken.no/studier/bygg-og-anlegg/prosjektledelse-fagarbeideren"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOPSF-H25/2025-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Helsefremmende og forebyggende arbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14H-EIHOPSF-H25/2025-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14L-EIHOPSF-H25/2026-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Fagspesifikk kunnskap om brukergrupper",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14I-EIHOPSF-H25/2026-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Behandlingstiltak, oppfølging og koordinering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14J-EIHOPSF-H25/2027-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOPSF-H25/2027-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOPSF-H25/2025-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Helsefremmende og forebyggende arbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14H-EIHOPSF-H25/2025-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14L-EIHOPSF-H25/2026-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Fagspesifikk kunnskap om brukergrupper",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14I-EIHOPSF-H25/2026-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Behandlingstiltak, oppfølging og koordinering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14J-EIHOPSF-H25/2027-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOPSF-H25/2027-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOPSF-H25/2025-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Helsefremmende og forebyggende arbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14H-EIHOPSF-H25/2025-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14L-EIHOPSF-H25/2026-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Fagspesifikk kunnskap om brukergrupper",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14I-EIHOPSF-H25/2026-host",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Behandlingstiltak, oppfølging og koordinering",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/00HH14J-EIHOPSF-H25/2027-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOPSF-H25/2027-var",
+    "from_study": "Psykisk helsearbeid og rusarbeid",
+    "study_url": "https://fagskolen-viken.no/studier/helse/psykisk-helsearbeid-og-rusarbeid"
+  },
+  {
+    "emne_name": "Gründervirksomhet",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01AR53A-EIRLEDKH25/2025-host",
+    "from_study": "Reiselivsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/reiselivsledelse"
+  },
+  {
+    "emne_name": "Bærekraftig ledelse, økonomi og markedsføring",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01AR53B-EIRLEDKH25/2025-host",
+    "from_study": "Reiselivsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/reiselivsledelse"
+  },
+  {
+    "emne_name": "Hotell- og restaurantledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01AR53C-EIRLEDKH25/2026-var",
+    "from_study": "Reiselivsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/reiseliv/reiselivsledelse"
+  },
+  {
+    "emne_name": "Råvarenes egenskaper, bruksområder og kjemi i produksjonsprosessen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK60A-EITKBKF/2024-host",
+    "from_study": "Spesialisering baker- og konditorfaget",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/spesialisering-baker-og-konditorfaget"
+  },
+  {
+    "emne_name": "Produksjons- og bedriftsledelse Baker- og konditorfaget",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK60B-EITKBKF/2024-host",
+    "from_study": "Spesialisering baker- og konditorfaget",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/spesialisering-baker-og-konditorfaget"
+  },
+  {
+    "emne_name": "Kvalitets- og produksjonsprosesser i bakerier og konditorier",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TK60C-EITKBKF/2025-var",
+    "from_study": "Spesialisering baker- og konditorfaget",
+    "study_url": "https://fagskolen-viken.no/studier/mat-og-drikke/spesialisering-baker-og-konditorfaget"
+  },
+  {
+    "emne_name": "Den geriatriske pasient",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70B-EIHOSGF/2025-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Pasientsikkerhet i helsetjenesten",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70A-EIHOSGF/2025-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Akutte tilstander og skader hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70E-EIHOSGF/2026-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Psykiske lidelser og rusavhengighet hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70D-EIHOSGF/2026-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Helsefremmende og sykdomsforebyggende arbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70C-EIHOSGF/2026-var",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Palliasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70F-EIHOSGF/2027-var",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Den geriatriske pasient",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70B-EIHOSGF/2025-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Pasientsikkerhet i helsetjenesten",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70A-EIHOSGF/2025-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Akutte tilstander og skader hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70E-EIHOSGF/2026-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Psykiske lidelser og rusavhengighet hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70D-EIHOSGF/2026-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Helsefremmende og sykdomsforebyggende arbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70C-EIHOSGF/2026-var",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Palliasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70F-EIHOSGF/2027-var",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Pasientsikkerhet i helsetjenesten",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70A-EIHOSGF/2025-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Helsefremmende og sykdomsforebyggende arbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70C-EIHOSGF/2026-var",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Psykiske lidelser og rusavhengighet hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70D-EIHOSGF/2026-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Akutte tilstander og skader hos eldre",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70E-EIHOSGF/2026-host",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Palliasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH70F-EIHOSGF/2027-var",
+    "from_study": "Spesialisering i geriatri",
+    "study_url": "https://fagskolen-viken.no/studier/helse/spesialisering-i-geriatri"
+  },
+  {
+    "emne_name": "Etikk, samhandling og kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00A-EIHOPSF-H25/2025-host",
+    "from_study": "Språklig og kulturelt mangfold i oppvekstsektoren",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/spraklig-og-kulturelt-mangfold-i-oppvekstsektoren"
+  },
+  {
+    "emne_name": "Pedagogikk og didaktikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO03B-EIHOASF-25/2025-host",
+    "from_study": "Språklig og kulturelt mangfold i oppvekstsektoren",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/spraklig-og-kulturelt-mangfold-i-oppvekstsektoren"
+  },
+  {
+    "emne_name": "Arbeid med språk og flerspråklighet i barnehagen",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO03C-EIHOASF-25/2026-var",
+    "from_study": "Språklig og kulturelt mangfold i oppvekstsektoren",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/spraklig-og-kulturelt-mangfold-i-oppvekstsektoren"
+  },
+  {
+    "emne_name": "Flerkulturell kompetanse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO03D-EIHOASF-25/2026-host",
+    "from_study": "Språklig og kulturelt mangfold i oppvekstsektoren",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/spraklig-og-kulturelt-mangfold-i-oppvekstsektoren"
+  },
+  {
+    "emne_name": "Praksis",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HO03F-EIHOASF-25/2026-host",
+    "from_study": "Språklig og kulturelt mangfold i oppvekstsektoren",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/spraklig-og-kulturelt-mangfold-i-oppvekstsektoren"
+  },
+  {
+    "emne_name": "Fordypningsoppgave",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01HH00B-EIHOASF-25/2027-var",
+    "from_study": "Språklig og kulturelt mangfold i oppvekstsektoren",
+    "study_url": "https://fagskolen-viken.no/studier/barn-og-oppvekst/spraklig-og-kulturelt-mangfold-i-oppvekstsektoren"
+  },
+  {
+    "emne_name": "Kommunikasjon og rammeverk, veiledning og læringsarbeid",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01AL65A-EILVYA25/2025-host",
+    "from_study": "Veiledning i yrkesopplæring",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/veiledning-i-yrkesopplaering"
+  },
+  {
+    "emne_name": "Samarbeid og gruppeprosesser",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01AL65B-EILVYA25/2026-var",
+    "from_study": "Veiledning i yrkesopplæring",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/veiledning-i-yrkesopplaering"
+  },
+  {
+    "emne_name": "Utviklingsoppgave fra selvvalgt tema",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01AL65C-EILVYA25/2026-var",
+    "from_study": "Veiledning i yrkesopplæring",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/veiledning-i-yrkesopplaering"
+  },
+  {
+    "emne_name": "Kommunikasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/10AL02L-EITLVLRH25/2025-host",
+    "from_study": "Verkstedsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/verkstedsledelse"
+  },
+  {
+    "emne_name": "Verkstedsdrift/-ledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/10AL02O-EITLVLRH25/2025-host",
+    "from_study": "Verkstedsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/verkstedsledelse"
+  },
+  {
+    "emne_name": "Markedsarbeid, lønn og logistikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/10AL02M-EITLVLRH25/2025-host",
+    "from_study": "Verkstedsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/verkstedsledelse"
+  },
+  {
+    "emne_name": "Lovkunnskap og HMS",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/10AL02N-EITLVLRH25/2026-var",
+    "from_study": "Verkstedsledelse",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/verkstedsledelse"
+  },
+  {
+    "emne_name": "Læring og læringsutbytte",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01D-EITINDK/2026-var",
+    "from_study": "Instruksjon og veiledning i bedrift",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/instruksjon-og-veiledning-i-bedrift"
+  },
+  {
+    "emne_name": "Kommunikasjon, instruksjon og veiledning",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/02KT01D-EITINDK/2026-var",
+    "from_study": "Instruksjon og veiledning i bedrift",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/instruksjon-og-veiledning-i-bedrift"
+  },
+  {
+    "emne_name": "Planlegge og gjennomføre læringsaktiviteter",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/01TB90C-EITKBBK/2025-var",
+    "from_study": "Instruksjon og veiledning i bedrift",
+    "study_url": "https://fagskolen-viken.no/studier/ledelse/instruksjon-og-veiledning-i-bedrift"
+  },
+  {
+    "emne_name": "Vedlikeholdsteknikk",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE50A-EITKDMK/2025-host",
+    "from_study": "Vedlikeholdsteknikk 4.0",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/vedlikeholdsteknikk-40"
+  },
+  {
+    "emne_name": "Vedlikeholdsledelse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE50A-EITKDMK/2025-host",
+    "from_study": "Vedlikeholdsteknikk 4.0",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/vedlikeholdsteknikk-40"
+  },
+  {
+    "emne_name": "Vedlikeholdsadministrasjon",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE50A-EITKDMK/2025-host",
+    "from_study": "Vedlikeholdsteknikk 4.0",
+    "study_url": "https://fagskolen-viken.no/studier/elektro/vedlikeholdsteknikk-40"
+  },
+  {
+    "emne_name": "Datainnsamling",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE50E-EITKDMK/2025-host",
+    "from_study": "Verdiskapende dataanalyse",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/verdiskapende-dataanalyse"
+  },
+  {
+    "emne_name": "Analyse",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE50E-EITKDMK/2025-host",
+    "from_study": "Verdiskapende dataanalyse",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/verdiskapende-dataanalyse"
+  },
+  {
+    "emne_name": "Bærekraftig og sirkulærøkonomi",
+    "emne_link": "https://studiekatalog.edutorium.no/viken/nb/emne/25TE50E-EITKDMK/2025-host",
+    "from_study": "Verdiskapende dataanalyse",
+    "study_url": "https://fagskolen-viken.no/studier/it-og-data/verdiskapende-dataanalyse"
+  }
+]

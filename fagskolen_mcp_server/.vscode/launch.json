@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug in Agent Builder",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/__init__.py",
+      "args": ["http"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PORT": "3001"
+      }
+    },
+    {
+      "name": "Run MCP Server (HTTP)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/__init__.py",
+      "args": ["http"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PORT": "3001"
+      }
+    },
+    {
+      "name": "Run MCP Server (STDIO)",
+      "type": "debugpy", 
+      "request": "launch",
+      "program": "${workspaceFolder}/src/__init__.py",
+      "args": ["stdio"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
